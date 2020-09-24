@@ -1,0 +1,19 @@
+body{
+    font-family: 'PT Sans', sans-serif;
+}
+header{
+    background-color: #fcdb00;
+}
+.nav-link{
+    color:black;
+}
+.header{
+padding-top: 50px;
+}
+a{
+    font-weight: 700;
+}
+.inspiration{
+    background-color: #fcdb00;
+    padding-top: 70px;
+}
